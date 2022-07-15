@@ -31,10 +31,11 @@ Paperswithcode links will be preferred.
 ## Models
 
 ### Graph-Based
-| Pub.  | Year | Title                                                                                                           |                                          Links                                           |
-|:-----:|:----:| --------------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------:|
-| Arxiv | 2021 | Spatial Dual-Modality Graph Reasoning for Key Information Extraction                                            | [[link]](https://paperswithcode.com/paper/spatial-dual-modality-graph-reasoning-for-key) |
-| ICPR  | 2020 | PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks |  [[link]](https://paperswithcode.com/paper/pick-processing-key-information-extraction)   |
+|     Pub.     | Year | Title                                                                                                           |                                          Links                                           |
+|:------------:|:----:| --------------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------:|
+| ACL Findings | 2021 | Spatial Dependency Parsing for Semi-Structured Document Information Extraction                                  |  [[link]](https://paperswithcode.com/paper/spatial-dependency-parsing-for-2d-document)   |
+|    Arxiv     | 2021 | Spatial Dual-Modality Graph Reasoning for Key Information Extraction                                            | [[link]](https://paperswithcode.com/paper/spatial-dual-modality-graph-reasoning-for-key) |
+|     ICPR     | 2020 | PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks |  [[link]](https://paperswithcode.com/paper/pick-processing-key-information-extraction)   |
 
 ### Transformer-Based
 
@@ -45,7 +46,7 @@ Paperswithcode links will be preferred.
 | Arxiv  | 2022 | LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking                                        |                             [[link]](https://paperswithcode.com/paper/layoutlmv3-pre-training-for-document-ai-with)                             |
 | Arxiv  | 2022 | ERNIE-Layout: Layout-Knowledge Enhanced Multi-modal Pre-training for Document Understanding                         |                             [[link]](https://paperswithcode.com/paper/ernie-layout-layout-knowledge-enhanced-multi)                             |
 | ICDAR  | 2021 | ViBERTgrid: A Jointly Trained Multi-Modal 2D Document Representation for Key Information Extraction from Documents  | [[link]](https://paperswithcode.com/paper/vibertgrid-a-jointly-trained-multi-modal-2d)[[code]](https://github.com/ZeningLin/ViBERTgrid-PyTorch) |
-| Arxiv  | 2021 | BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents |                               [[link]](https://paperswithcode.com/paper/bros-a-layout-aware-pre-trained-language)                               |
+|  AAAI  | 2022 | BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents |                               [[link]](https://paperswithcode.com/paper/bros-a-layout-aware-pre-trained-language)                               |
 | Arxiv  | 2021 | TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models                                      |                              [[link]](https://paperswithcode.com/paper/trocr-transformer-based-optical-character)                               |
 | ACM MM | 2021 | StrucTexT: Structured Text Understanding with Multi-Modal Transformers                                              |                             [[link]](https://paperswithcode.com/paper/structext-structured-text-understanding-with)                             |
 |  ACL   | 2021 | LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding                                       |                               [[link]](https://paperswithcode.com/paper/layoutlmv2-multi-modal-pre-training-for)                                |
