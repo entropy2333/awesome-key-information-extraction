@@ -16,6 +16,7 @@ Welcome contributions!
   - [Survey](#survey)
   - [Toolkits](#toolkits)
   - [Models](#models)
+    - [:star:LLM-Based](#starllm-based)
     - [Graph-Based](#graph-based)
     - [Transformer-Based](#transformer-based)
     - [Grid-Based](#grid-based)
@@ -57,10 +58,27 @@ Welcome contributions!
 
 ## Models
 
+### :star:LLM-Based
+
+| Pub.  | Year  | Title                                                                                                     |                                           Links                                            |
+| :---: | :---: | --------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------: |
+| ICML  | 2023  | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models    |     [[link]](https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre)     |
+| Arxiv | 2023  | InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning                      |   [[link]](https://paperswithcode.com/paper/instructblip-towards-general-purpose-vision)   |
+| Arxiv | 2023  | MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models                    |       [[link]](https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language)       |
+| Arxiv | 2023  | Visual Instruction Tuning                                                                                 |            [[link]](https://paperswithcode.com/paper/visual-instruction-tuning)            |
+| Arxiv | 2023  | Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond      |    [[link]](https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language)     |
+| Arxiv | 2023  | mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality                               |     [[link]](https://paperswithcode.com/paper/mplug-owl-modularization-empowers-large)     |
+| Arxiv | 2023  | mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding                      |    [[link]](https://paperswithcode.com/paper/mplug-docowl-modularized-multimodal-large)    |
+| Arxiv | 2023  | mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration                  |  [[link]](https://paperswithcode.com/paper/mplug-owl2-revolutionizing-multi-modal-large)   |
+| Arxiv | 2023  | Otter: A Multi-Modal Model with In-Context Instruction Tuning                                             |    [[link]](https://paperswithcode.com/paper/otter-a-multi-modal-model-with-in-context)    |
+| Arxiv | 2023  | UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model |  [[link]](https://paperswithcode.com/paper/ureader-universal-ocr-free-visually-situated)   |
+| Blog  | 2023  | Fuyu-8B: A Multimodal Architecture for AI Agents                                                          | [[blog]](https://www.adept.ai/blog/fuyu-8b)[[model]](https://huggingface.co/adept/fuyu-8b) |
+
+
 ### Graph-Based
 |     Pub.     | Year  | Title                                                                                                           |                                          Links                                           |
 | :----------: | :---: | --------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: |
-|    ICDAR     | 2023  | LayoutGCN: A Lightweight Architecture for Visually Rich Document Understanding                                  |                                                                                          |
+|    ICDAR     | 2023  | LayoutGCN: A Lightweight Architecture for Visually Rich Document Understanding                                  |        [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-41682-8_10)         |
 | ACL-Findings | 2021  | Spatial Dependency Parsing for Semi-Structured Document Information Extraction                                  |  [[link]](https://paperswithcode.com/paper/spatial-dependency-parsing-for-2d-document)   |
 |    Arxiv     | 2021  | Spatial Dual-Modality Graph Reasoning for Key Information Extraction                                            | [[link]](https://paperswithcode.com/paper/spatial-dual-modality-graph-reasoning-for-key) |
 |     ICPR     | 2020  | PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks |  [[link]](https://paperswithcode.com/paper/pick-processing-key-information-extraction)   |
@@ -97,6 +115,7 @@ Welcome contributions!
 |  Pub.  | Year  | Title                                                                                |                                          Links                                           |
 | :----: | :---: | ------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------: |
 | ICDAR  | 2023  | Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution |   [[link]](https://paperswithcode.com/paper/visual-information-extraction-in-the-wild)   |
+|  ICML  | 2023  | Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding      | [[link]](https://paperswithcode.com/paper/pix2struct-screenshot-parsing-as-pretraining)  |
 |  ECCV  | 2022  | OCR-free Document Understanding Transformer                                          |   [[link]](https://paperswithcode.com/paper/donut-document-understanding-transformer)    |
 | Arxiv  | 2022  | TRIE++: Towards End-to-End Information Extraction from Visually Rich Documents       |      [[link]](https://paperswithcode.com/paper/trie-towards-end-to-end-information)      |
 |  ICCV  | 2021  | DocFormer: End-to-End Transformer for Document Understanding                         | [[link]](https://paperswithcode.com/paper/docformer-end-to-end-transformer-for-document) |
