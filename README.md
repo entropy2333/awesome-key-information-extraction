@@ -22,7 +22,7 @@ Welcome contributions!
     - [Grid-Based](#grid-based)
     - [End-to-end](#end-to-end)
     - [Others](#others)
-  - [Reference](#reference)
+  - [Related Repositories](#related-repositories)
 
 
 ## Datasets
@@ -130,7 +130,8 @@ Welcome contributions!
 
 
 
-## Reference
+## Related Repositories
 
 - https://paperswithcode.com/task/key-information-extraction
 - https://github.com/tstanislawek/awesome-document-understanding/blob/main/topics/kie/README.md
+- :star:https://github.com/SCUT-DLVCLab/Document-AI-Recommendations#vie
