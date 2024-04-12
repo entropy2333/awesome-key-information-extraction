@@ -135,3 +135,7 @@ Welcome contributions!
 - https://paperswithcode.com/task/key-information-extraction
 - https://github.com/tstanislawek/awesome-document-understanding/blob/main/topics/kie/README.md
 - :star:https://github.com/SCUT-DLVCLab/Document-AI-Recommendations#vie
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=entropy2333/awesome-key-information-extraction&type=Date)](https://star-history.com/#entropy2333/awesome-key-information-extraction&Date)
