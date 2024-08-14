@@ -23,6 +23,7 @@ Welcome contributions!
     - [End-to-end](#end-to-end)
     - [Others](#others)
   - [Related Repositories](#related-repositories)
+  - [Star History](#star-history)
 
 
 ## Datasets
@@ -55,25 +56,26 @@ Welcome contributions!
 | 2022 | DavarOCR: A Toolbox for OCR and Multi-Modal Document Understanding                   | [[paper]](https://arxiv.org/pdf/2207.06695v1.pdf)[[code]](https://github.com/hikopensource/davar-lab-ocr) |
 | 2021 | MMOCR: A Comprehensive Toolbox for Text Detection, Recognition and Understanding     |      [[paper]](https://arxiv.org/pdf/2108.06543v1.pdf)[[code]](https://github.com/open-mmlab/mmocr)       |
 | 2020 | PP-OCR: A Practical Ultra Lightweight OCR System                                     |   [[paper]](https://arxiv.org/pdf/2009.09941v3.pdf)[[code]](https://github.com/PaddlePaddle/PaddleOCR)    |
-| 2024 | ANLS* -- A Universal Document Processing Metric for Generative Large Language Models | [[paper]](https://arxiv.org/pdf/2402.03848)[[code]](https://github.com/deepopinion/anls_star_metric)      |
+| 2024 | ANLS* -- A Universal Document Processing Metric for Generative Large Language Models |   [[paper]](https://arxiv.org/pdf/2402.03848)[[code]](https://github.com/deepopinion/anls_star_metric)    |
 
 ## Models
 
 ### :star:LLM-Based
 
-| Pub.  | Year  | Title                                                                                                     |                                           Links                                            |
-| :---: | :---: | --------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------: |
-| ICML  | 2023  | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models    |     [[link]](https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre)     |
-| Arxiv | 2023  | InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning                      |   [[link]](https://paperswithcode.com/paper/instructblip-towards-general-purpose-vision)   |
-| Arxiv | 2023  | MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models                    |       [[link]](https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language)       |
-| Arxiv | 2023  | Visual Instruction Tuning                                                                                 |            [[link]](https://paperswithcode.com/paper/visual-instruction-tuning)            |
-| Arxiv | 2023  | Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond      |    [[link]](https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language)     |
-| Arxiv | 2023  | mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality                               |     [[link]](https://paperswithcode.com/paper/mplug-owl-modularization-empowers-large)     |
-| Arxiv | 2023  | mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding                      |    [[link]](https://paperswithcode.com/paper/mplug-docowl-modularized-multimodal-large)    |
-| Arxiv | 2023  | mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration                  |  [[link]](https://paperswithcode.com/paper/mplug-owl2-revolutionizing-multi-modal-large)   |
-| Arxiv | 2023  | Otter: A Multi-Modal Model with In-Context Instruction Tuning                                             |    [[link]](https://paperswithcode.com/paper/otter-a-multi-modal-model-with-in-context)    |
-| Arxiv | 2023  | UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model |  [[link]](https://paperswithcode.com/paper/ureader-universal-ocr-free-visually-situated)   |
-| Blog  | 2023  | Fuyu-8B: A Multimodal Architecture for AI Agents                                                          | [[blog]](https://www.adept.ai/blog/fuyu-8b)[[model]](https://huggingface.co/adept/fuyu-8b) |
+| Pub.  | Year  | Title                                                                                                                |                                           Links                                            |
+| :---: | :---: | -------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------: |
+| Arxiv | 2024  | A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding |        [[link]](https://paperswithcode.com/paper/a-bounding-box-is-worth-one-token)        |
+| ICML  | 2023  | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models               |     [[link]](https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre)     |
+| Arxiv | 2023  | InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning                                 |   [[link]](https://paperswithcode.com/paper/instructblip-towards-general-purpose-vision)   |
+| Arxiv | 2023  | MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models                               |       [[link]](https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language)       |
+| Arxiv | 2023  | Visual Instruction Tuning                                                                                            |            [[link]](https://paperswithcode.com/paper/visual-instruction-tuning)            |
+| Arxiv | 2023  | Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond                 |    [[link]](https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language)     |
+| Arxiv | 2023  | mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality                                          |     [[link]](https://paperswithcode.com/paper/mplug-owl-modularization-empowers-large)     |
+| Arxiv | 2023  | mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding                                 |    [[link]](https://paperswithcode.com/paper/mplug-docowl-modularized-multimodal-large)    |
+| Arxiv | 2023  | mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration                             |  [[link]](https://paperswithcode.com/paper/mplug-owl2-revolutionizing-multi-modal-large)   |
+| Arxiv | 2023  | Otter: A Multi-Modal Model with In-Context Instruction Tuning                                                        |    [[link]](https://paperswithcode.com/paper/otter-a-multi-modal-model-with-in-context)    |
+| Arxiv | 2023  | UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model            |  [[link]](https://paperswithcode.com/paper/ureader-universal-ocr-free-visually-situated)   |
+| Blog  | 2023  | Fuyu-8B: A Multimodal Architecture for AI Agents                                                                     | [[blog]](https://www.adept.ai/blog/fuyu-8b)[[model]](https://huggingface.co/adept/fuyu-8b) |
 
 
 ### Graph-Based
