@@ -64,6 +64,8 @@ Welcome contributions!
 
 | Pub.  | Year  | Title                                                                                                                |                                           Links                                            |
 | :---: | :---: | -------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------: |
+| Arxiv | 2024  | mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding                            |  [[link]](https://paperswithcode.com/paper/mplug-docowl2-high-resolution-compressing-for)  |
+| Arxiv | 2024  | mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models                           |     [[link]](https://paperswithcode.com/paper/mplug-owl3-towards-long-image-sequence)      |
 | Arxiv | 2024  | A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding |        [[link]](https://paperswithcode.com/paper/a-bounding-box-is-worth-one-token)        |
 | ICML  | 2023  | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models               |     [[link]](https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre)     |
 | Arxiv | 2023  | InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning                                 |   [[link]](https://paperswithcode.com/paper/instructblip-towards-general-purpose-vision)   |
