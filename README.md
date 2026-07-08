@@ -40,6 +40,7 @@ Welcome contributions!
 |    EATEN     | EATEN: Entity-aware Attention for Single Shot Visual Text Extraction                                            |                                                [[link]](https://github.com/beacandler/EATEN)                                                 |
 | Train Ticket | PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks |    [[link]](https://github.com/wenwenyu/PICK-pytorch)[[download]](https://drive.google.com/file/d/1o8JktPD7bS74tfjz-8dVcZq_uFS6YEGh/view)    |
 |     POIE     | Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution                            | [[link]](https://github.com/jfkuang/CFAM)[[download]](https://drive.google.com/file/d/1eEMNiVeLlD-b08XW_GfAGfPmmII-GDYs/view?usp=share_link) |
+|  DocuBench   | DocuBench: A Public Benchmark for Schema-Guided Structured Extraction from Hard Real-World Documents           |                                             [[link]](https://github.com/DocuPipe/DocuBench)                                                 |
 
 ## Survey
 
