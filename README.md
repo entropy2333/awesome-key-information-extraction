@@ -58,6 +58,7 @@ Welcome contributions!
 | 2021 | MMOCR: A Comprehensive Toolbox for Text Detection, Recognition and Understanding     |      [[paper]](https://arxiv.org/pdf/2108.06543v1.pdf)[[code]](https://github.com/open-mmlab/mmocr)       |
 | 2020 | PP-OCR: A Practical Ultra Lightweight OCR System                                     |   [[paper]](https://arxiv.org/pdf/2009.09941v3.pdf)[[code]](https://github.com/PaddlePaddle/PaddleOCR)    |
 | 2024 | ANLS* -- A Universal Document Processing Metric for Generative Large Language Models |   [[paper]](https://arxiv.org/pdf/2402.03848)[[code]](https://github.com/deepopinion/anls_star_metric)    |
+| 2026 | doceval: eval harness for LLM document-extraction pipelines — field-level accuracy, failure taxonomy, cost tracking | [[code]](https://github.com/dave8172/doceval) |
 
 ## Models
 
